@@ -13,7 +13,7 @@
     --pink: #be609d;
     --pink-glow: rgba(255,45,120,0.15);
     --pink-soft: #ff6aa7;
-    --text: #ff6aa7;
+    --text: #eeeaec;
     --muted: #7a6a80;
     --tag-bg: #16101e;
   }
