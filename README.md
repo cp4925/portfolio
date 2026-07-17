@@ -234,19 +234,66 @@
 <div class="hero">
   <div class="hero-eyebrow">// B.Tech CSE · SRM IST Trichy · Graduating 2027</div>
   <h1><span class="glow">C B Anshy<br>Prabha</span></h1>
-  <p class="hero-sub">I'm a Computer Science and Engineering student at SRM Institute of Science and Technology with a strong interest in Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development. I enjoy building practical solutions that solve real-world problems, from reinforcement learning systems for traffic signal optimization to network security tools for IP filtering and threat detection. I'm constantly exploring new technologies, strengthening my problem-solving skills, and looking for opportunities to create impactful and innovative solutions.</p>
+  <p class="hero-sub">
+    <strong>Aspiring AI &amp; Machine Learning Engineer</strong><br><br>
+
+    I'm a B.Tech Computer Science and Engineering student at
+    <strong>SRM Institute of Science and Technology</strong>,
+    graduating in <strong>2027</strong>.
+
+    I'm passionate about building intelligent software using
+    <strong>Python</strong>,
+    <strong>Django</strong>,
+    <strong>Machine Learning</strong>,
+    <strong>Reinforcement Learning</strong>,
+    and <strong>Cybersecurity</strong>, with a focus on solving real-world problems through innovative and scalable solutions.
+</p>
   <div class="hero-cta">
-    <a href="#projects" class="btn btn-primary">See My Work</a>
-    <a href="https://github.com/cp4925" target="_blank" class="btn btn-outline">GitHub</a>
-    <a href="https://www.linkedin.com/in/anshy-prabha-7a4b04297?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" class="btn btn-outline">LinkedIn</a>
-  </div>
-  <div class="stat-strip">
-    <div><div class="stat-num">8.61</div><div class="stat-label">CGPA / 10</div></div>
-    <div><div class="stat-num">86.24%</div><div class="stat-label">DQN Efficiency Gain</div></div>
-    <div><div class="stat-num">2</div><div class="stat-label">Projects</div></div>
-    <div><div class="stat-num">3</div><div class="stat-label">Certifications</div></div>
-    <div><div class="stat-num">4</div><div class="stat-label">Languages Spoken</div></div>
-  </div>
+
+    <a href="#projects" class="btn btn-primary">
+        View Projects
+    </a>
+
+    <a href="resume.pdf" class="btn btn-outline" download>
+        Download Resume
+    </a>
+
+    <a href="https://github.com/cp4925" target="_blank" class="btn btn-outline">
+        GitHub
+    </a>
+
+    <a href="https://www.linkedin.com/in/anshy-prabha-7a4b04297/" target="_blank" class="btn btn-outline">
+        LinkedIn
+    </a>
+
+<div class="stat-strip">
+
+    <div>
+        <div class="stat-num">3+</div>
+        <div class="stat-label">Projects</div>
+    </div>
+
+    <div>
+        <div class="stat-num">1</div>
+        <div class="stat-label">Internship</div>
+    </div>
+
+    <div>
+        <div class="stat-num">3</div>
+        <div class="stat-label">Certifications</div>
+    </div>
+
+    <div>
+        <div class="stat-num">8.51</div>
+        <div class="stat-label">CGPA</div>
+    </div>
+
+    <div>
+        <div class="stat-num">2027</div>
+        <div class="stat-label">Expected Graduation</div>
+    </div>
+
+</div>
 </div>
 <section id="projects">
   <div class="section-label">// 01 · work</div>
