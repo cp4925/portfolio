@@ -233,7 +233,7 @@
 </nav>
 <div class="hero">
   <div class="hero-eyebrow">// B.Tech CSE · SRM IST Trichy · Graduating 2027</div>
-  <h1>C B <span class="glow">Anshy<br>Prabha</span></h1>
+  <h1><span class="glow">C B Anshy<br>Prabha</span></h1>
   <p class="hero-sub">I'm a Computer Science and Engineering student at SRM Institute of Science and Technology with a strong interest in Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development. I enjoy building practical solutions that solve real-world problems, from reinforcement learning systems for traffic signal optimization to network security tools for IP filtering and threat detection. I'm constantly exploring new technologies, strengthening my problem-solving skills, and looking for opportunities to create impactful and innovative solutions.</p>
   <div class="hero-cta">
     <a href="#projects" class="btn btn-primary">See My Work</a>
