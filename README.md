@@ -356,7 +356,7 @@
   <div class="section-label">// 04 · education</div>
   <h2 class="section-title">Education</h2>
   <div class="edu-list">
-    <div class="edu-item"><div><div class="edu-name">SRM Institute of Science and Technology, Trichy</div><div class="edu-detail">B.Tech · Computer Science and Engineering · Expected 2027</div></div><div class="edu-score">8.51 / 10</div></div>
+    <div class="edu-item"><div><div class="edu-name">SRM Institute of Science and Technology, Trichy</div><div class="edu-detail">B.Tech · Computer Science and Engineering · Expected 2027</div></div><div class="edu-score">8.61 / 10</div></div>
     <div class="edu-item"><div><div class="edu-name">Kendriya Vidyalaya No.3 ONGC, Surat</div><div class="edu-detail">Class XII – CBSE · MPC · 2023</div></div><div class="edu-score">60%</div></div>
     <div class="edu-item"><div><div class="edu-name">Kendriya Vidyalaya No.3 ONGC, Surat</div><div class="edu-detail">Class X – CBSE · BMPC · 2021</div></div><div class="edu-score">86%</div></div>
   </div>
